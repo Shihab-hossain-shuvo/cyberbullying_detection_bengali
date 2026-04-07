@@ -114,5 +114,5 @@ Shihab Hossain Shuvo
 
 MSc Data Science | Machine Learning & NLP Enthusiast
 paper on google scolar:
-https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=sentiment+analysis+shihab+hossain+shuvo&oq=
+https://scholar.google.co.uk/citations?hl=en&user=vCkaOnQAAAAJ
 pdf available upon request
